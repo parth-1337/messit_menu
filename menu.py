@@ -42,7 +42,7 @@ Rules:
 5. IMPORTANT: Never use '\n' (newlines) inside the menu strings. If text is on multiple lines, join them with a comma and a space.
 """
 
-print("image sent to api")
+print("Image sent to api")
 response = model.generate_content([prompt, image_file])
 
 # added by claude removes that json added by gemini in output
@@ -55,3 +55,4 @@ with open("menu.json", "w") as my_file:
     my_file.write(clean_json)
 
 print("Saved")
+
