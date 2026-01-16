@@ -1,0 +1,110 @@
+[
+  {
+    "date": "2025-07-09",
+    "menu": [
+      { "type": 1, "menu": "Plain Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Ghee Phulka, Dal Fry, White Rice, Sambar, Rasam, Curd, Fryums, Paneer Butter masala, Sweet: Gova Jangri" },
+      { "type": 3, "menu": "Onion Pakoda, Chutney, Tea, Coffee, Milk, Dahi Papdi Chat" },
+      { "type": 4, "menu": "Methi roti, White Rice, Rasam, Sambar, Butter Milk, Ghee rice, veg khurma, Fruits: Water Melon" }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "menu": [
+      { "type": 1, "menu": "Plain Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Ghee Phulka, Dal Fry, White Rice, Sambar, Rasam, Curd, Fryums, Paneer Butter masala, Sweet: Gova Jangri" },
+      { "type": 3, "menu": "Onion Pakoda, Chutney, Tea, Coffee, Milk, Dahi Papdi Chat" },
+      { "type": 4, "menu": "Methi roti, White Rice, Rasam, Sambar, Butter Milk, Ghee rice, veg khurma, Fruits: Water Melon" }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "menu": [
+      { "type": 1, "menu": "Mooli Paratha, Curd, Pongal, vada, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Masala, White Rice, Sambar, Rasam, Curd, Onion Rings, Poriyal, Green veg sabzi." },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Eggless Cake" },
+      { "type": 4, "menu": "Poori, Channa Masala, White Rice, Rasam, Sambar, Loose Curd, Jeera Rice, Cabbage Poriyal, Fruits: Banana" }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "menu": [
+      { "type": 1, "menu": "Mooli Paratha, Curd, Pongal, vada, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Masala, White Rice, Sambar, Rasam, Curd, Onion Rings, Poriyal, Green veg sabzi." },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Eggless Cake" },
+      { "type": 4, "menu": "Poori, Channa Masala, White Rice, Rasam, Sambar, Loose Curd, Jeera Rice, Cabbage Poriyal, Fruits: Banana" }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "menu": [
+      { "type": 1, "menu": "Kal Dosa, Vadacurry / Sambar, Chutney, B.B.J, Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Lasoni, White Rice, Sambar, Rasam, Loose Curd, Wheel Chips, Panneer Makhanwala, Poriyal, Sweet: Gulab Jamun" },
+      { "type": 3, "menu": "Tea, Coffee, Milk" },
+      { "type": 4, "menu": "Phulka, Dal Makhani, White Rice, Rasam, Sambar, Butter Milk, Chutney, Idly, Beetroot Poriyal, Fruits: Musk melon" }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "menu": [
+      { "type": 1, "menu": "Kal Dosa, Vadacurry / Sambar, Chutney, B.B.J, Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Lasoni, White Rice, Sambar, Rasam, Loose Curd, Wheel Chips, Panneer Makhanwala, Poriyal, Sweet: Gulab Jamun" },
+      { "type": 3, "menu": "Tea, Coffee, Milk" },
+      { "type": 4, "menu": "Phulka, Dal Makhani, White Rice, Rasam, Sambar, Butter Milk, Chutney, Idly, Beetroot Poriyal, Fruits: Musk melon" }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "menu": [
+      { "type": 1, "menu": "Aloo Paratha, Curd, Kitchadi, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Maharani, White Rice, Rasam, Karakozhambu, Buttermilk, urulai varuval, thagi vada, Fryums" },
+      { "type": 3, "menu": "Sweet corn chat, Tea, Coffee, Milk, Veg Puffs" },
+      { "type": 4, "menu": "Phulka, Dal Rajma, White Rice, Rasam, Sambar, Curd, Gobi manjurian, Veg Fried rice., Fruits: Water melon" }
+    ]
+  },
+  {
+    "date": "2025-07-26",
+    "menu": [
+      { "type": 1, "menu": "Aloo Paratha, Curd, Kitchadi, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Maharani, White Rice, Rasam, Karakozhambu, Buttermilk, urulai varuval, thagi vada, Fryums" },
+      { "type": 3, "menu": "Sweet corn chat, Tea, Coffee, Milk, Veg Puffs" },
+      { "type": 4, "menu": "Phulka, Dal Rajma, White Rice, Rasam, Sambar, Curd, Gobi manjurian, Veg Fried rice., Fruits: Water melon" }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "menu": [
+      { "type": 1, "menu": "Vada Paav, Pongal, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal tadka, White Rice, Rasam, Papad, Veg Biryani, oil brinjal, Onion Raitha, Sweet: Ice Cream" },
+      { "type": 3, "menu": "Sauce, Tea, Coffee, Milk, Papaya" },
+      { "type": 4, "menu": "Phulka, Dhal, White Rice, Rasam, Sambar, Loose Curd, Aloo Gobi Capsicum Masala, Papaya" }
+    ]
+  },
+  {
+    "date": "2025-07-27",
+    "menu": [
+      { "type": 1, "menu": "Vada Paav, Pongal, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal tadka, White Rice, Rasam, Papad, Veg Biryani, oil brinjal, Onion Raitha, Sweet: Ice Cream" },
+      { "type": 3, "menu": "Sauce, Tea, Coffee, Milk, Papaya" },
+      { "type": 4, "menu": "Phulka, Dhal, White Rice, Rasam, Sambar, Loose Curd, Aloo Gobi Capsicum Masala, Papaya" }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "menu": [
+      { "type": 1, "menu": "Poori, Aloo/channa Masala, Semiya, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Ajawin, White Rice, Sambar, Rasam, Butter Milk, Onion rings, Panneer Butter Masala, Onion Raitha, Sweet: Boondhi laddu" },
+      { "type": 3, "menu": "Veg cutlet, Tea, Coffee, Milk" },
+      { "type": 4, "menu": "Roti, Dhal, White Rice, Poriyal, Onion Uttappam, chutney, Sambar, Rasam, Loose Curd, Musk melon" }
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "menu": [
+      { "type": 1, "menu": "Poori, Aloo/channa Masala, Semiya, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Ajawin, White Rice, Sambar, Rasam, Butter Milk, Onion rings, Panneer Butter Masala, Onion Raitha, Sweet: Boondhi laddu" },
+      { "type": 3, "menu": "Veg cutlet, Tea, Coffee, Milk" },
+      { "type": 4, "menu": "Roti, Dhal, White Rice, Poriyal, Onion Uttappam, chutney, Sambar, Rasam, Loose Curd, Musk melon" }
+    ]
+  }
+]
