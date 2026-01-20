@@ -1,758 +1,281 @@
 [
   {
-    "date": "2023-10-10",
+    "date": "2025-07-01",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
+      { "type": 1, "menu": "Idly, Vada, Kichadi, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Tadka, White Rice, Sambar, Rasam, Halwa, Wheel Chips, Mushroom Peas Masala" },
+      { "type": 3, "menu": "Veg Samosa" },
+      { "type": 4, "menu": "Chappati, Dhal, White Rice, Jeera Sambar, Butter Milk, Brinjal Allo Poriyal, Veg Fried Rice, Sweet Semiya, Fruits: Banana" }
     ]
   },
   {
-    "date": "2023-10-11",
+    "date": "2025-07-02",
     "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Plain Masala Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Punjabi, White Rice, Sambar, Rasam, Curd, Onion rings, Poriyal, Sweet: Soya Payasam" },
+      { "type": 3, "menu": "Imly sauce, Tea, Coffee, Milk, Pani Poori, Natan Karpatti" },
+      { "type": 4, "menu": "Phulka, Dal Fry, White Rice, Rasam, Sambar, Loose curd, Aloo & Capsicum Masala, Fruit salad" }
     ]
   },
   {
-    "date": "2023-10-12",
+    "date": "2025-07-03",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Aloo Paratha, Curd, Pickle, RavaUppama, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Green Gram Dal, White Rice, Sambar, Rasam, Curd, Papal, Poriyal, Veg Shahi Masala" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Aloo Banana Bhaji, Coconut Chutney" },
+      { "type": 4, "menu": "Poori, Channa Masala, White Rice, Rasam, Sambar, Jeera rice, Poriyal, Fruits: Water Melon" }
     ]
   },
   {
-    "date": "2023-10-13",
+    "date": "2025-07-04",
     "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
+      { "type": 1, "menu": "Plain Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Rajasthani, White Rice, Sambar, Rasam, Curd, Papal, Paneer Tikka Masala, Amritsari Kulcha, Sweet: Gulab Jamun" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Eggless Cake" },
+      { "type": 4, "menu": "Phulka, Dhal Rajma, White Rice, Sambar, Rasam, Chutney, Butter Milk, Pasta, Masala, Fruits: Mask Melon" }
     ]
   },
   {
-    "date": "2023-10-14",
+    "date": "2025-07-05",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
+      { "type": 1, "menu": "Mixed Veg Paratha, Curd, Kichadi, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Tadka, White Rice, Sambar, Rasam, Curd, Kadai Paneer, Veg Pulao, Curd, Pakoda / Dahi vada, Papad, Kara Kooshambu, Keerai kootu" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Masala Vada, Chutney" },
+      { "type": 4, "menu": "Fruits: Mask melon, Phulka, Dhal, White Rice, Sambar, Rasam, Veg Fried Rice, Gobi Manchurian" }
     ]
   },
   {
-    "date": "2023-10-15",
+    "date": "2025-07-06",
     "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
+      { "type": 1, "menu": "Idly, Poori, Paav Bhaji, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Tuvarai Dal, White Rice, Sambar, Rasam, Curd, Fryums, Veg Biryani, Oil Brinjal, Onion Raitha, Sweet: Ice Cream" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Chana Chat" },
+      { "type": 4, "menu": "Phulka, Dhal Thoor, White Rice, Sambar, Rasam, Butter Milk, Soya Capsicum Masala, Banana" }
     ]
   },
   {
-    "date": "2023-10-16",
+    "date": "2025-07-07",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
+      { "type": 1, "menu": "Poori, Aloo Masala, Poha Upma, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Fry, White Rice, Sambar, Rasam, Loose Curd, Kadai Paneer, Rava Indoo" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Masala Peanuts" },
+      { "type": 4, "menu": "Phulka, Dhal Masala, Kal Dosa, Sambar, Tomato Chutney, White Rice, Rasam, Curd rice, Poriyal, Fruits: Mask Melon" }
     ]
   },
   {
-    "date": "2023-10-17",
+    "date": "2025-07-08",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
+      { "type": 1, "menu": "Gobi Paratha, Curd, Pickle, Kitchadi, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, DalThadka, White Rice, Rasam, Butter Milk, Papad, Brinjal Bhaji, Veg Dal Fridai" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Onion Samosa" },
+      { "type": 4, "menu": "Phulka, Dhal Fry, White Rice, Rasam, Sambar, Curd, Mixed veg, Tomato rice, Onion raitha, Fruits: Fruit Salad" }
     ]
   },
   {
-    "date": "2023-10-18",
+    "date": "2025-07-09",
     "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
+      { "type": 1, "menu": "No menu available" },
+      { "type": 2, "menu": "No menu available" },
+      { "type": 3, "menu": "No menu available" },
+      { "type": 4, "menu": "No menu available" }
     ]
   },
   {
-    "date": "2023-10-19",
+    "date": "2025-07-10",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Poori, Vada, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Masala, White Rice, Sambar, Rasam, Curd, Onion rings, Poriyal, Green Veg sabzi." },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Dahi Papdi Chat" },
+      { "type": 4, "menu": "Poori, Channa Masala, White Rice, Rasam, Sambar, Loose curd, Vella rice, Cabbage Poriyal, Fruits: Water Melon" }
     ]
   },
   {
-    "date": "2023-10-20",
+    "date": "2025-07-11",
     "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
+      { "type": 1, "menu": "Kal Dosa, Vadacurry / Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Lasooni, White Rice, Sambar, Rasam, Loose Curd, Wheel Chips, Paneer Mahaswada, Poriyal, Sweet: Gulab jamun" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Eggless Cake" },
+      { "type": 4, "menu": "Phulka, Dal Makhani, White Rice, Sambar, Rasam, Butter Milk, Chutney, Idly, Beetroot Poriyal, Fruits: Mask melon" }
     ]
   },
   {
-    "date": "2023-10-21",
+    "date": "2025-07-12",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
+      { "type": 1, "menu": "Plain Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Mahani, White Rice, Sambar, Rasam, Curd, Kadambur Butter milk, Uradai Vadai, Masala Vadai, Fryums" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Sweet corn chat" },
+      { "type": 4, "menu": "Phulka, Dhal Rajma, White Rice, Sambar, Rasam, Curd, Gobi manjurian, Veg fried rice, Fruits: Water melon" }
     ]
   },
   {
-    "date": "2023-10-22",
+    "date": "2025-07-13",
     "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
+      { "type": 1, "menu": "Vada Pav, Kichadi, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal tadka, White Rice, Sambar, Rasam, Curd, Veg Biryani, Oil brinjal, Onion raitha, Sweet: Ice Cream" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Veg Palls, Sauce" },
+      { "type": 4, "menu": "Phulka, Dhal, White Rice, Sambar, Rasam, Loose Curd, Aloo Gobi Capsicum Masala, Papaya" }
     ]
   },
   {
-    "date": "2023-10-23",
+    "date": "2025-07-14",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
+      { "type": 1, "menu": "Poori, Aloochanna Masala, Jilebiya, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Rajwani, White Rice, Sambar, Rasam, Butter Milk, Onion rings, Paneer Butter Masala, Onion Raitha, Sweet: Boondhi laddu" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Veg cutlet" },
+      { "type": 4, "menu": "Roti, Dhal, White Rice, Poriyal, Onion Uttapam, Chutney, Sambar, Rasam, Loose Curd, Musk melon" }
     ]
   },
   {
-    "date": "2023-10-24",
+    "date": "2025-07-15",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
+      { "type": 1, "menu": "Idly, Vada, Kichadi, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Tadka, White Rice, Sambar, Rasam, Halwa, Wheel Chips, Mushroom Peas Masala" },
+      { "type": 3, "menu": "Veg Samosa" },
+      { "type": 4, "menu": "Chappati, Dhal, White Rice, Jeera Sambar, Butter Milk, Brinjal Allo Poriyal, Veg Fried Rice, Sweet Semiya, Fruits: Banana" }
     ]
   },
   {
-    "date": "2023-10-25",
+    "date": "2025-07-16",
     "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Plain Masala Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Punjabi, White Rice, Sambar, Rasam, Curd, Onion rings, Poriyal, Sweet: Soya Payasam" },
+      { "type": 3, "menu": "Imly sauce, Tea, Coffee, Milk, Pani Poori, Natan Karpatti" },
+      { "type": 4, "menu": "Phulka, Dal Fry, White Rice, Rasam, Sambar, Loose curd, Aloo & Capsicum Masala, Fruit salad" }
     ]
   },
   {
-    "date": "2023-10-26",
+    "date": "2025-07-17",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Aloo Paratha, Curd, Pickle, RavaUppama, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Green Gram Dal, White Rice, Sambar, Rasam, Curd, Papal, Poriyal, Veg Shahi Masala" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Aloo Banana Bhaji, Coconut Chutney" },
+      { "type": 4, "menu": "Poori, Channa Masala, White Rice, Rasam, Sambar, Jeera rice, Poriyal, Fruits: Water Melon" }
     ]
   },
   {
-    "date": "2023-10-27",
+    "date": "2025-07-18",
     "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
+      { "type": 1, "menu": "Plain Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Rajasthani, White Rice, Sambar, Rasam, Curd, Papal, Paneer Tikka Masala, Amritsari Kulcha, Sweet: Gulab Jamun" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Eggless Cake" },
+      { "type": 4, "menu": "Phulka, Dhal Rajma, White Rice, Sambar, Rasam, Chutney, Butter Milk, Pasta, Masala, Fruits: Mask Melon" }
     ]
   },
   {
-    "date": "2023-10-28",
+    "date": "2025-07-19",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
+      { "type": 1, "menu": "Mixed Veg Paratha, Curd, Kichadi, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Tadka, White Rice, Sambar, Rasam, Curd, Kadai Paneer, Veg Pulao, Curd, Pakoda / Dahi vada, Papad, Kara Kooshambu, Keerai kootu" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Masala Vada, Chutney" },
+      { "type": 4, "menu": "Fruits: Mask melon, Phulka, Dhal, White Rice, Sambar, Rasam, Veg Fried Rice, Gobi Manchurian" }
     ]
   },
   {
-    "date": "2023-10-29",
+    "date": "2025-07-20",
     "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
+      { "type": 1, "menu": "Idly, Poori, Paav Bhaji, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Tuvarai Dal, White Rice, Sambar, Rasam, Curd, Fryums, Veg Biryani, Oil Brinjal, Onion Raitha, Sweet: Ice Cream" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Chana Chat" },
+      { "type": 4, "menu": "Phulka, Dhal Thoor, White Rice, Sambar, Rasam, Butter Milk, Soya Capsicum Masala, Banana" }
     ]
   },
   {
-    "date": "2023-10-30",
+    "date": "2025-07-21",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
+      { "type": 1, "menu": "Poori, Aloo Masala, Poha Upma, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Fry, White Rice, Sambar, Rasam, Loose Curd, Kadai Paneer, Rava Indoo" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Masala Peanuts" },
+      { "type": 4, "menu": "Phulka, Dhal Masala, Kal Dosa, Sambar, Tomato Chutney, White Rice, Rasam, Curd rice, Poriyal, Fruits: Mask Melon" }
     ]
   },
   {
-    "date": "2023-10-31",
+    "date": "2025-07-22",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
+      { "type": 1, "menu": "Gobi Paratha, Curd, Pickle, Kitchadi, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, DalThadka, White Rice, Rasam, Butter Milk, Papad, Brinjal Bhaji, Veg Dal Fridai" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Onion Samosa" },
+      { "type": 4, "menu": "Phulka, Dhal Fry, White Rice, Rasam, Sambar, Curd, Mixed veg, Tomato rice, Onion raitha, Fruits: Fruit Salad" }
     ]
   },
   {
-    "date": "2023-11-01",
+    "date": "2025-07-23",
     "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Plain Masala Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Ghee Phulka, Dal Fry, White Rice, Sambar, Rasam, Curd, Fryums, Paneer Butter Masala, Gova Jangri" },
+      { "type": 3, "menu": "Onion Pakoda, Chutney" },
+      { "type": 4, "menu": "Methi roti, White Rice, Rasam, Sambar, Butter Milk, Ghee rice, Kheeroma" }
     ]
   },
   {
-    "date": "2023-11-02",
+    "date": "2025-07-24",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Poori, Vada, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Masala, White Rice, Sambar, Rasam, Curd, Onion rings, Poriyal, Green Veg sabzi." },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Dahi Papdi Chat" },
+      { "type": 4, "menu": "Poori, Channa Masala, White Rice, Rasam, Sambar, Loose curd, Vella rice, Cabbage Poriyal, Fruits: Water Melon" }
     ]
   },
   {
-    "date": "2023-11-03",
+    "date": "2025-07-25",
     "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
+      { "type": 1, "menu": "Kal Dosa, Vadacurry / Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Lasooni, White Rice, Sambar, Rasam, Loose Curd, Wheel Chips, Paneer Mahaswada, Poriyal, Sweet: Gulab jamun" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Eggless Cake" },
+      { "type": 4, "menu": "Phulka, Dal Makhani, White Rice, Sambar, Rasam, Butter Milk, Chutney, Idly, Beetroot Poriyal, Fruits: Mask melon" }
     ]
   },
   {
-    "date": "2023-11-04",
+    "date": "2025-07-26",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
+      { "type": 1, "menu": "Plain Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Mahani, White Rice, Sambar, Rasam, Curd, Kadambur Butter milk, Uradai Vadai, Masala Vadai, Fryums" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Sweet corn chat" },
+      { "type": 4, "menu": "Phulka, Dhal Rajma, White Rice, Sambar, Rasam, Curd, Gobi manjurian, Veg fried rice, Fruits: Water melon" }
     ]
   },
   {
-    "date": "2023-11-05",
+    "date": "2025-07-27",
     "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
+      { "type": 1, "menu": "Vada Pav, Kichadi, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal tadka, White Rice, Sambar, Rasam, Curd, Veg Biryani, Oil brinjal, Onion raitha, Sweet: Ice Cream" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Veg Palls, Sauce" },
+      { "type": 4, "menu": "Phulka, Dhal, White Rice, Sambar, Rasam, Loose Curd, Aloo Gobi Capsicum Masala, Papaya" }
     ]
   },
   {
-    "date": "2023-11-06",
+    "date": "2025-07-28",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
+      { "type": 1, "menu": "Poori, Aloochanna Masala, Jilebiya, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Rajwani, White Rice, Sambar, Rasam, Butter Milk, Onion rings, Paneer Butter Masala, Onion Raitha, Sweet: Boondhi laddu" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Veg cutlet" },
+      { "type": 4, "menu": "Roti, Dhal, White Rice, Poriyal, Onion Uttapam, Chutney, Sambar, Rasam, Loose Curd, Musk melon" }
     ]
   },
   {
-    "date": "2023-11-07",
+    "date": "2025-07-29",
     "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
+      { "type": 1, "menu": "Idly, Vada, Kichadi, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Tadka, White Rice, Sambar, Rasam, Halwa, Wheel Chips, Mushroom Peas Masala" },
+      { "type": 3, "menu": "Veg Samosa" },
+      { "type": 4, "menu": "Chappati, Dhal, White Rice, Jeera Sambar, Butter Milk, Brinjal Allo Poriyal, Veg Fried Rice, Sweet Semiya, Fruits: Banana" }
     ]
   },
   {
-    "date": "2023-11-08",
+    "date": "2025-07-30",
     "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
+      { "type": 1, "menu": "Plain Masala Dosa, Sambar, Chutney, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Dal Punjabi, White Rice, Sambar, Rasam, Curd, Onion rings, Poriyal, Sweet: Soya Payasam" },
+      { "type": 3, "menu": "Imly sauce, Tea, Coffee, Milk, Pani Poori, Natan Karpatti" },
+      { "type": 4, "menu": "Phulka, Dal Fry, White Rice, Rasam, Sambar, Loose curd, Aloo & Capsicum Masala, Fruit salad" }
     ]
   },
   {
-    "date": "2023-11-09",
+    "date": "2025-07-31",
     "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-10",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-11",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-12",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "No Lunch (Diwali)" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-13",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-14",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-15",
-    "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-16",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-17",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-18",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-19",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-20",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-21",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-22",
-    "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-23",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-24",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-25",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-26",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-27",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-28",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-29",
-    "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-11-30",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-01",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-02",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-03",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-04",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-05",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-06",
-    "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-07",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-08",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-09",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-10",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-11",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-12",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-13",
-    "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-14",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-15",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-16",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-17",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-18",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-19",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-20",
-    "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-21",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-22",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-23",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-24",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-25",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-26",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg boiled)" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chana Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Dhokla, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Mix Veg, Gulab Jamun, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-27",
-    "menu": [
-      { "type": 1, "menu": "Paratha (Aloo), Curd, Sauce, Boiled Egg, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Rajma, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Samosa, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Kadhi Pakoda, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-28",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Upma, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Steam Rice, Dum Aloo, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Mix Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Jeera Rice, Veg Kofta, Papad, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-29",
-    "menu": [
-      { "type": 1, "menu": "Idli Sambhar, Chatni, Dosa, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Chole Bhature, Salad, Achar" },
-      { "type": 3, "menu": "Vada Pav, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Aloo Gobhi, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-30",
-    "menu": [
-      { "type": 1, "menu": "Puri Sabzi, Poha, Milk, Tea, Coffee, Anda (Egg Bhurji)" },
-      { "type": 2, "menu": "Roti, Dal Tadka, Jeera Rice, Paneer Butter Masala, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Bread Pakoda, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Fry, Steam Rice, Seasonal Veg, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2023-12-31",
-    "menu": [
-      { "type": 1, "menu": "Dosa, Sambhar, Chatni, Puri Sabzi, Milk, Tea, Coffee, Boiled Egg" },
-      { "type": 2, "menu": "Roti, Dal Makhani, Jeera Rice, Matar Paneer, Salad, Achar, Papad" },
-      { "type": 3, "menu": "Veg Maggi, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Tadka, Steam Rice, Veg Biryani, Curd, Salad, Achar" }
-    ]
-  },
-  {
-    "date": "2024-01-01",
-    "menu": [
-      { "type": 1, "menu": "Bread Butter Jam, Omlet, Poha, Milk, Tea, Coffee" },
-      { "type": 2, "menu": "Roti, Dal Fry, Jeera Rice, Veg Manchurian, Veg Noodles, Salad, Achar" },
-      { "type": 3, "menu": "Pav Bhaji, Tea, Coffee" },
-      { "type": 4, "menu": "Roti, Dal Makhani, Steam Rice, Chana Dal, Salad, Achar" }
+      { "type": 1, "menu": "Aloo Paratha, Curd, Pickle, RavaUppama, Chutney, Sambar, B.B.J Tea, Coffee, Milk" },
+      { "type": 2, "menu": "Phulka, Green Gram Dal, White Rice, Sambar, Rasam, Curd, Papal, Poriyal, Veg Shahi Masala" },
+      { "type": 3, "menu": "Tea, Coffee, Milk, Aloo Banana Bhaji, Coconut Chutney" },
+      { "type": 4, "menu": "Poori, Channa Masala, White Rice, Rasam, Sambar, Jeera rice, Poriyal, Fruits: Water Melon" }
     ]
   }
 ]
