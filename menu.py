@@ -4,7 +4,7 @@ import os
 from PIL import Image
 
 # API KEY
-MY_API_KEY = "AIzaSyCGzsV5H8HZgGQ0ZwnWENQPHXoKn0h4sPY"
+MY_API_KEY = "API KEY"
 ai.configure(api_key=MY_API_KEY)
 model = ai.GenerativeModel("gemini-2.5-flash")
 
